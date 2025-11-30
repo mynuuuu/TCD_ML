@@ -2,7 +2,7 @@
 # TCD_ML
 Documenting my ML assignments from TCD 
 =======
-# CS7CS4 - Giovanni Di Liberto
+# CS7CS4 - Machine Learning
 
 Code for assignment based on the nanogpt-lecture (see details below).
 
