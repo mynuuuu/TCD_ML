@@ -1,0 +1,4 @@
+Parameter Setting,Batch Size,Embedding Dim,Num Heads,Num Layers,Num Parameters (M),Final Train Loss,Final Val Loss,Training Time (s)
+param1,32,128,4,4,0.82,0.3429,0.3458,1332.37
+param2,64,192,6,2,0.93,0.3366,0.3491,2004.61
+param3,32,96,4,4,0.47,0.3443,0.3476,1208.33
